@@ -1,0 +1,8 @@
+#!/bin/bash
+ls -l >> 5-listfilesdigitonly
+
+clear
+
+echo ls -l
+ls -l
+git config --global user.name
