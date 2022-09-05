@@ -1,1 +1,1 @@
-1. displays a confused smiley "(Ôo)".
+2. content of the /etc/passwd file
